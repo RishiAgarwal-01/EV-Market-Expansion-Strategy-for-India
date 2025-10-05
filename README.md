@@ -48,12 +48,6 @@ AtliQ Motors is an American EV/Hybrid vehicle brand planning to launch bestselli
 * Export visuals or reports via Publish to Power BI Service or Export to PDF.
 * Reference deliverables/Presentation.pptx for a summary slide deck suitable for stakeholders.
 
-# ✅ Usage Instructions
-* Open report/EV_Market_Report.pbix in Power BI Desktop.
-* Navigate through the interactive landing page to detailed drill pages.
-* Export visuals or reports via Publish to Power BI Service or Export to PDF.
-* Reference deliverables/Presentation.pptx for a summary slide deck suitable for stakeholders.
-
 # 📎 References & Acknowledgements
 * Dataset and problem were provided by Codebasics via the Resume Project Challenge #12: EV Market Expansion Strategy for India. 
 * Challenge encouraged design thinking, storytelling, and real-world business impact.
