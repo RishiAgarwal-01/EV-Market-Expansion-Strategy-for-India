@@ -56,3 +56,17 @@ AtliQ Motors is an American EV/Hybrid vehicle brand planning to launch bestselli
 Want to discuss my findings or project approach?
 * LinkedIn: https://www.linkedin.com/in/rishiagarwal524
 * GitHub: https://github.com/RishiAgarwal-01
+
+# 📸 Images
+<img width="1280" height="720" alt="Slide1" src="https://github.com/user-attachments/assets/5f99e006-c0f6-4c20-9b93-a536037f27c3" />
+<img width="1280" height="720" alt="Slide2" src="https://github.com/user-attachments/assets/0476fc00-2a1c-4e96-985f-34f80f094063" />
+<img width="1280" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/344b8590-42e5-4eb9-b5c7-16f664e2c9ad" />
+<img width="1280" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/136cc06c-759f-437e-9b5b-516241be76d8" />
+<img width="1280" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/453513e6-dd83-4f89-b22f-a74e988ff8cd" />
+<img width="1280" height="720" alt="Slide6" src="https://github.com/user-attachments/assets/58b465e6-0026-48dc-8254-75a4a26e653f" />
+<img width="1280" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/fee1e430-9655-410f-8423-cb004bbab88b" />
+<img width="1280" height="720" alt="Slide8" src="https://github.com/user-attachments/assets/1500b800-7add-434e-af7d-6ebc1f559c5a" />
+<img width="1280" height="720" alt="Slide9" src="https://github.com/user-attachments/assets/a9455991-c5eb-465f-b9db-146a1a9faac8" />
+<img width="1280" height="720" alt="Slide10" src="https://github.com/user-attachments/assets/acb0fefb-7354-493a-a702-57286397ba19" />
+<img width="1280" height="720" alt="Slide11" src="https://github.com/user-attachments/assets/65df6866-0cbf-47c2-a6d9-3cf2debc7a26" />
+
